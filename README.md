@@ -13,5 +13,8 @@ Desi Pijjas is a modern web application for ordering pizzas with a unique twist 
 - Responsive design for mobile and desktop
 - Interactive animations and modern UI/UX design
 
+## Demo
+
+![Demo Image](./Demo.png)
 
 ## I' ll keep on adding different features, stay connected.
