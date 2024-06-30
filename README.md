@@ -1,6 +1,6 @@
 # Desi Pijjas
 
-You may look at the deployed version of Desi Pijjas here: [Desi-Pijjas]()
+You may look at the deployed version of Desi Pijjas here: [Desi-Pijjas](https://desi-pijja-iadityaguptas-projects.vercel.app/)
 
 ## Introduction
 Desi Pijjas is a modern web application for ordering pizzas with a unique twist on traditional recipes. Currently, the project focuses on the frontend, with the backend development in progress.
